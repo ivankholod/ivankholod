@@ -9,6 +9,8 @@ I specialize in complex iOS applications where architecture, stability, performa
 🔹 Also: Kotlin Multiplatform · Ionic migration · Flutter modules · Go backend · microservices  
 
 ## My products
+
+![DeepLink Studio Hero](deeplink_hero.png)
 ![Casper Hero](casper_hero.png)
 
 

@@ -8,6 +8,8 @@ I specialize in complex iOS applications where architecture, stability, performa
 🔹 Scale: 7M+ users · banking payments · credit products · live data · WebRTC calls  
 🔹 Also: Kotlin Multiplatform · Ionic migration · Flutter modules · Go backend · microservices  
 
+![Casper Hero](casper_hero.png)
+
 ## Languages & Tools
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)

@@ -8,7 +8,9 @@ I specialize in complex iOS applications where architecture, stability, performa
 🔹 Scale: 7M+ users · banking payments · credit products · live data · WebRTC calls  
 🔹 Also: Kotlin Multiplatform · Ionic migration · Flutter modules · Go backend · microservices  
 
+## My products
 ![Casper Hero](casper_hero.png)
+
 
 ## Languages & Tools
 

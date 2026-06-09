@@ -1,3 +1,5 @@
+![Main Hero](main_hero.png)
+
 Senior iOS Developer with 8+ years of experience building production mobile apps for banking, fintech, pharma, real-time products and offline-first systems.
 
 I specialize in complex iOS applications where architecture, stability, performance, navigation and product quality matter. I have worked on large-scale apps with millions of users, banking core flows, high-frequency real-time interfaces, WebRTC communication, offline sync and legacy-to-modern migrations.

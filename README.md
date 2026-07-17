@@ -14,6 +14,7 @@ I specialize in complex iOS applications where architecture, stability, performa
 
 ![DeepLink Studio Hero](deeplink_hero.png)
 ![Casper Hero](casper_hero.png)
+![DeepLink Studio Hero](myplace-hero.png)
 
 
 ## Languages & Tools

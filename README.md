@@ -53,5 +53,10 @@ Currently building an independent location-aware platform focused on scalable ar
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat&logo=openstreetmap&logoColor=white)
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
 ![LLM](https://img.shields.io/badge/LLM-6E56CF?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-009688?style=flat)
+![AI%20Agents](https://img.shields.io/badge/AI%20Agents-7B61FF?style=flat)

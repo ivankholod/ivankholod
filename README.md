@@ -60,3 +60,10 @@ Currently building an independent location-aware platform focused on scalable ar
 ![LLM](https://img.shields.io/badge/LLM-6E56CF?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-009688?style=flat)
 ![AI%20Agents](https://img.shields.io/badge/AI%20Agents-7B61FF?style=flat)
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ivankholod&theme=transparent&hide_border=true" />
+</p>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ivankholod&theme=github-compact)

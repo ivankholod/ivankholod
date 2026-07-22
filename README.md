@@ -2,8 +2,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ivankholod&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/ivankholod?style=flat)
 
-# Hi there 👋
-
 Senior Mobile Engineer with 8+ years of experience building production-grade applications from architecture to deployment.
 
 I design and develop scalable mobile products, backend services and real-time systems with a strong focus on architecture, performance, reliability and user experience.

@@ -51,3 +51,7 @@ Currently building an independent location-aware platform focused on scalable ar
 
 ![Yandex Cloud](https://img.shields.io/badge/Yandex%20Cloud-FFCC00?style=flat&logo=yandexcloud&logoColor=black)
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat&logo=openstreetmap&logoColor=white)
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-6E56CF?style=flat)
+![RAG](https://img.shields.io/badge/RAG-009688?style=flat)

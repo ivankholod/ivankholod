@@ -1,21 +1,29 @@
 ![Main Hero](main_hero.png)
+![Profile Views](https://komarev.com/ghpvc/?username=ivankholod&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/ivankholod?style=flat)
 
-Senior iOS Developer with 8+ years of experience building production mobile apps for banking, fintech, pharma, real-time products and offline-first systems.
+# Hi there 👋
 
-I specialize in complex iOS applications where architecture, stability, performance, navigation and product quality matter. I have worked on large-scale apps with millions of users, banking core flows, high-frequency real-time interfaces, WebRTC communication, offline sync and legacy-to-modern migrations.
+Senior Mobile Engineer with 8+ years of experience building production-grade applications from architecture to deployment.
 
-🔹 Currently: Senior iOS Developer  
-🔹 Core: Swift · UIKit · SwiftUI · Async/await · Redux · MVVM · VIPER+C  
-🔹 Domains: Banking · Fintech · Pharma · Real-time · Offline-first · Video platforms  
-🔹 Scale: 7M+ users · banking payments · credit products · live data · WebRTC calls  
-🔹 Also: Kotlin Multiplatform · Ionic migration · Flutter modules · Go backend · microservices  
+I design and develop scalable mobile products, backend services and real-time systems with a strong focus on architecture, performance, reliability and user experience.
 
-## My products
+My experience spans banking, fintech, healthcare, communication platforms, offline-first systems and location-aware applications. I enjoy solving complex engineering problems, modernizing legacy codebases and building products that evolve from MVP to large-scale production.
+
+Currently building an independent location-aware platform focused on scalable architecture, real-time messaging and cloud infrastructure.
+
+🔹 Senior iOS Developer  
+🔹 Swift · UIKit · SwiftUI · Async/Await · MVVM · Redux · VIPER+C  
+🔹 Flutter · Dart · Kotlin · TypeScript · Go  
+🔹 Backend: Node.js · PostgreSQL · Redis · WebSocket · Docker · Yandex Cloud  
+🔹 Experience: Banking · Fintech · Healthcare · Real-time · Offline-first · Location-based Products  
+🔹 Scale: 7M+ users · Payments · Credit Products · Live Data · WebRTC · Distributed Backend Systems
+
+## My Products
 
 ![DeepLink Studio Hero](deeplink_hero.png)
 ![Casper Hero](casper_hero.png)
-![DeepLink Studio Hero](myplace-hero.png)
-
+![MyPlace Hero](myplace-hero.png)
 
 ## Languages & Tools
 

@@ -25,7 +25,7 @@ Currently building an independent location-aware platform focused on scalable ar
 
 ## Languages & Tools
 
-## 📱 Mobile
+## Mobile
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![Objective--C](https://img.shields.io/badge/Objective--C-0A84FF?style=flat&logo=apple&logoColor=white)
@@ -39,9 +39,7 @@ Currently building an independent location-aware platform focused on scalable ar
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
----
-
-## ⚙️ Backend
+## Backend
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -56,9 +54,7 @@ Currently building an independent location-aware platform focused on scalable ar
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
----
-
-## 🤖 AI
+## AI
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
@@ -69,16 +65,12 @@ Currently building an independent location-aware platform focused on scalable ar
 ![RAG](https://img.shields.io/badge/RAG-009688?style=flat)
 ![AI%20Agents](https://img.shields.io/badge/AI%20Agents-7B61FF?style=flat)
 
----
-
-## ☁️ Cloud & Infrastructure
+## Cloud & Infrastructure
 
 ![Yandex Cloud](https://img.shields.io/badge/Yandex%20Cloud-FFCC00?style=flat&logo=yandexcloud&logoColor=black)
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat&logo=openstreetmap&logoColor=white)
 
----
-
-## 💻 Other
+## Other
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-004482?style=flat&logo=cplusplus&logoColor=white)

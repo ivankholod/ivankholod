@@ -10,7 +10,7 @@ My experience spans banking, fintech, healthcare, communication platforms, offli
 
 Currently building an independent location-aware platform focused on scalable architecture, real-time messaging and cloud infrastructure.
 
-🔹 Senior iOS Developer  
+🔹 Senior iOS Developer  / Product Engineer
 🔹 Swift · UIKit · SwiftUI · Async/Await · MVVM · Redux · VIPER+C  
 🔹 Flutter · Dart · Kotlin · TypeScript · Go  
 🔹 Backend: Node.js · PostgreSQL · Redis · WebSocket · Docker · Yandex Cloud  

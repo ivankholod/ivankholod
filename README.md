@@ -79,5 +79,3 @@ Currently building an independent location-aware platform focused on scalable ar
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ivankholod&theme=transparent&hide_border=true" />
 </p>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ivankholod&theme=github-compact)

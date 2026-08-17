@@ -74,8 +74,3 @@ Currently building an independent location-aware platform focused on scalable ar
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-004482?style=flat&logo=cplusplus&logoColor=white)
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ivankholod&theme=transparent&hide_border=true" />
-</p>
